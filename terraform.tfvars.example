@@ -1,0 +1,11 @@
+//AWS
+region      = ""
+aws_profile = ""
+
+# Config principale du projet (en minuscules, lettres ou chiffres)
+project_name = ""
+
+# Tags
+environment = ""
+owner       = ""
+automation  = ""
